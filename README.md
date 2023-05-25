@@ -34,7 +34,6 @@ This project is a QR Code component implementation as part of a challenge propos
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
